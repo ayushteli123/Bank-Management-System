@@ -97,7 +97,7 @@ Follow the on-screen instructions for each operation.
 
 Transaction history is saved in Account.txt and account details in clients.txt.
 
-🖼️ Screenshots (Optional)
+🖼️ Screenshots 
 <img width="1472" height="693" alt="image" src="https://github.com/user-attachments/assets/a6390e29-ce6b-4214-b88e-0ac634766811" />
 
 
