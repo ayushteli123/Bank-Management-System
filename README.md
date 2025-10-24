@@ -60,8 +60,8 @@ Rs500 deposited to account 101 on Sat Oct 26 12:00:00 2025
 
 🛠️ Tech Stack
 
-Language: C
-
+Language: 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 Compiler: Any C compiler (e.g., GCC)
 
 Platform: Windows / Linux (console-based)
