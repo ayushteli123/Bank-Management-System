@@ -75,17 +75,15 @@ git clone https://github.com/ayushteli123/bank-management-system.git
 
 Compile the code:
 
-gcc bank_management.c -o bank_system
+gcc bank_management.c 
 
 
 Run the program:
 
 ./bank_system   # Linux
-bank_system.exe # Windows
+./a.out  # Windows
 
 🚀 Usage
-
-Run the program and enter the login password (pass).
 
 Select Bank Menu options:
 
@@ -100,7 +98,8 @@ Follow the on-screen instructions for each operation.
 Transaction history is saved in Account.txt and account details in clients.txt.
 
 🖼️ Screenshots (Optional)
-[Insert screenshots of the console interface here if available]
+<img width="1472" height="693" alt="image" src="https://github.com/user-attachments/assets/a6390e29-ce6b-4214-b88e-0ac634766811" />
+
 
 📄 License
 
